@@ -1,0 +1,23 @@
+#EXTM3U x-tvg-url="http://192.168.0.96:29191/output/epg" url-tvg="http://192.168.0.96:29191/output/epg"
+#EXTINF:-1 tvg-id="1" tvg-name="BBC One" tvg-logo="http://192.168.0.96:29191/api/channels/logos/1/cache/" tvg-chno="1" group-title="Default Group",BBC One
+https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="BBC Three" tvg-logo="http://192.168.0.96:29191/api/channels/logos/2/cache/" tvg-chno="2" group-title="Default Group",BBC Three
+https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="BBC Two" tvg-logo="http://192.168.0.96:29191/api/channels/logos/3/cache/" tvg-chno="3" group-title="Default Group",BBC Two
+https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="BBC Four" tvg-logo="http://192.168.0.96:29191/api/channels/logos/4/cache/" tvg-chno="4" group-title="Default Group",BBC Four
+https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="Channel 4" tvg-logo="http://192.168.0.96:29191/api/channels/logos/6/cache/" tvg-chno="5" group-title="Default Group",Channel 4
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="Channel 5" tvg-logo="http://192.168.0.96:29191/api/channels/logos/5/cache/" tvg-chno="6" group-title="Default Group",Channel 5
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="ITV2 HD" tvg-logo="http://192.168.0.96:29191/api/channels/logos/8/cache/" tvg-chno="7" group-title="Default Group",ITV2 HD
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="ITV3 HD" tvg-logo="http://192.168.0.96:29191/api/channels/logos/7/cache/" tvg-chno="8" group-title="Default Group",ITV3 HD
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="ITV4 HD" tvg-logo="http://192.168.0.96:29191/api/channels/logos/9/cache/" tvg-chno="9" group-title="Default Group",ITV4 HD
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="BBC America" tvg-logo="" tvg-chno="10" group-title="Default Group",BBC America
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="MTV Hits Europe" tvg-logo="" tvg-chno="13" group-title="Default Group",MTV Hits Europe
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
